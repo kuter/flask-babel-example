@@ -21,3 +21,6 @@ msgstr ""
 msgid "Hello World"
 msgstr ""
 
+msgid "Welcome"
+msgstr ""
+

@@ -23,3 +23,6 @@ msgstr ""
 msgid "Hello World"
 msgstr "Witaj świecie !"
 
+msgid "Welcome"
+msgstr "Witaj"
+
