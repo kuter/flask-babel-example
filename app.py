@@ -7,11 +7,11 @@ babel = Babel(app)
 
 @babel.localeselector
 def get_locale():
-    return 'pl'
+    return request.accept_languages.best_match(["pl", "en"])
 
 
-@app.route('/', methods=["POST"])
-def hello_world():
+@app.route("/", methods=["POST"])
+def index():
     text = request.form["text"]
     translated = lazy_gettext(text)
     return str(translated)
