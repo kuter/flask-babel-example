@@ -26,3 +26,6 @@ msgstr "Witaj świecie !"
 msgid "Welcome"
 msgstr "Witaj"
 
+msgid "Login failed"
+msgstr "Nieudane logowanie"
+

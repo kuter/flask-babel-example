@@ -24,3 +24,5 @@ msgstr ""
 msgid "Welcome"
 msgstr ""
 
+msgid "Login failed"
+msgstr ""
