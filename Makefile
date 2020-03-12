@@ -7,7 +7,7 @@ init_lang:
 	pybabel init -i translations/messages.pot -d translations -l $(lang)
 
 update_lang:
-	pybabel update -i messages.pot -d translations
+	pybabel update -i translations/messages.pot -d translations/
 
 compile:
 	pybabel compile -d translations
