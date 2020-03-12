@@ -32,7 +32,7 @@ $ pybabel init -i translations/messages.pot -d translations/ -l pl
 update existing message directories:
 
 ```
-$ pybabel update -i messages.pot -d translations
+$ pybabel update -i translations/messages.pot -d translations/
 ```
 
 then compile messages to MO files:
