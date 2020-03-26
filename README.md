@@ -4,17 +4,14 @@
 
 ## Installation
 
-Create and activate virtualenv first:
-
+make sure you have `pipenv` installed:
 ```
-$ virtualenv -p python3 ~/virtualenvs/flask-babel-blog
-$ source ~/virtualenv/flask-babel-blog/bin/activate
+$ pip install pipenv
 ```
 
-then install requirements:
-
+create virtualenv and install requirements:
 ```
-$ pip install -r requirements.txt
+$ pipenv install
 ```
 
 ## pybabel commnands
