@@ -14,6 +14,11 @@ create virtualenv and install requirements:
 $ pipenv install
 ```
 
+before you run the command below, make sure that you're in virtualenv:
+```
+$ pipenv shell
+```
+
 ## pybabel commnands
 
 collect all messages from python files and generate POT:
