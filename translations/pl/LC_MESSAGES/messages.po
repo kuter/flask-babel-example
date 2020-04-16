@@ -29,5 +29,5 @@ msgstr "Witaj"
 msgid "Login failed"
 msgstr "Nieudane logowanie"
 
-msgid "Lgin Successful"
+msgid "Login Successful"
 msgstr "Pomyślnie zalogowano"
